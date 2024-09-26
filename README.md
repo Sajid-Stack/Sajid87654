@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sajid Ahmad</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<img align="right" alt="Banner" width="400" src="https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid87654&label=Profile%20views&color=0e75b6&style=flat" alt="sajid87654" /> </p>
 
